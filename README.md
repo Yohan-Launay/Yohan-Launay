@@ -4,4 +4,4 @@
 
 <h2>Stats languages 🚀</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan-Launay&hide_progress=true&show_icons=true&theme=dracula)
