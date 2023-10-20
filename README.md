@@ -3,7 +3,11 @@
 
 <h2>Stats profile 👨‍💻</h2>
 
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yohan-Launay&show_icons=true&theme=dracula)
+
+</div>
 
 <h2>Stats languages 🚀</h2>
 
