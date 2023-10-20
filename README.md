@@ -11,4 +11,8 @@
 
 <h2>Stats languages 🚀</h2>
 
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan-Launay&hide_progress=true&show_icons=true&theme=dracula)
+
+</div>
