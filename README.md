@@ -1,7 +1,7 @@
 <h1>Hello there !</h1>
 <p>Work in progress ... 👷🏽</p>
 
-<h2>Stats profile 👨‍💻</h2>
+<h2>Stats profile</h2>
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 </div>
 
-<h2>Stats languages 🚀</h2>
+<h2>Stats languages</h2>
 
 <div align="center">
 
