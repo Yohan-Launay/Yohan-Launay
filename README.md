@@ -1,5 +1,5 @@
 <h1>Hello there !</h1>
-<p>Work in progress ... 👷🏽</p>
+<p>Work in progress ...</p>
 
 <h2>Stats profile</h2>
 
